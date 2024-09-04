@@ -9,7 +9,7 @@
 
 ### 1. Mục tiêu đồ án
 - **Xây dựng mô hình mạng không dây đơn giản**: Bao gồm switch, router và các thiết bị kết nối.
-- **Thực hiện tấn công brute force**: Nhắm vào các giao thức bảo mật WEP 64-bit, WEP 128-bit, WPA-PSK AES-128 bit để crack mật khẩu.
+- **Thực hiện tấn công brute force**: Nhắm vào các giao thức bảo mật WEP 64-bit, WEP 128-bit, WPA2-PSK AES-128 bit để crack mật khẩu.
 
 ### 2. Kỹ thuật tấn công
 - **ARP Request Replay**: Tạo ra lưu lượng dữ liệu giả để bắt gói tin.
@@ -58,5 +58,7 @@
 - **Crack mật khẩu**: Sử dụng phương pháp dictionary attack để crack mật khẩu WPA2-PSK.
 
 ## II. Demo
-1. **Video demo**: [YouTube](link_to_your_video)
-2. **Report**: [Link Docx](https://docs.google.com/document/d/1b4xQyaustxm1a1nCaRF3CXA_Yj1PQQ5O/edit?usp=sharing&ouid=112571363348012562723&rtpof=true&sd=true)
+1. **Video demo crack WEP 64 bit**: [YouTube](https://youtu.be/qoMnKvS2Li4)
+2. **Video demo crack WEP 128 bit**: [YouTube](https://youtu.be/Ne_8Y0ZYtAA)
+3. **Video demo crack WPA2-PSK AES-128 bit**: [YouTube](https://youtu.be/xq4M58JrAi0)
+4. **Report**: [Link Docx](https://docs.google.com/document/d/1b4xQyaustxm1a1nCaRF3CXA_Yj1PQQ5O/edit?usp=sharing&ouid=112571363348012562723&rtpof=true&sd=true)
