@@ -59,4 +59,4 @@
 
 ## II. Demo
 1. **Video demo**: [YouTube](link_to_your_video)
-2. **Report**: [Link Docx](./assets/report/FinalReport.NT131.O21.docx)
+2. **Report**: [Link Docx](https://docs.google.com/document/d/1b4xQyaustxm1a1nCaRF3CXA_Yj1PQQ5O/edit?usp=sharing&ouid=112571363348012562723&rtpof=true&sd=true)
