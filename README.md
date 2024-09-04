@@ -24,7 +24,7 @@
 ### 4. Mô hình mạng và cấu hình hệ thống
 
 #### a. Mô hình mạng
-  ![Model Diagram](./assets/images/.png)
+  ![Model Diagram](./assets/images/model.png)
 
 #### b. Cấu hình hệ thống
 - **Kết nối mạng**: Sử dụng Ethernet để kết nối từ switch đến router WiFi TL-WR940N.
