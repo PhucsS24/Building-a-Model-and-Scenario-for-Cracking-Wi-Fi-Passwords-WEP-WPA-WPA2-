@@ -24,7 +24,7 @@
 ### 4. Mô hình mạng và cấu hình hệ thống
 
 #### a. Mô hình mạng
-- (Thêm hình ảnh mô hình mạng nếu có)
+  ![Model Diagram](./assets/images/.png)
 
 #### b. Cấu hình hệ thống
 - **Kết nối mạng**: Sử dụng Ethernet để kết nối từ switch đến router WiFi TL-WR940N.
@@ -58,5 +58,5 @@
 - **Crack mật khẩu**: Sử dụng phương pháp dictionary attack để crack mật khẩu WPA2-PSK.
 
 ## II. Demo
-1. **Video demo**: [Xem trên YouTube](link_to_your_video)
-2. **Report**: [Tải PDF](link_to_your_report)
+1. **Video demo**: [YouTube](link_to_your_video)
+2. **Report**: [Link Docx](./assets/report/FinalReport.NT131.O21.docx)
